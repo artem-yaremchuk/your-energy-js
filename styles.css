@@ -196,7 +196,7 @@ img {
     }
 
     .quote {
-        max-width: 400px;
+        width: 400px;
         padding: 40px 40px 40px 90px;
         margin-bottom: unset;
         height: 249px;
